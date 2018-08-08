@@ -1,6 +1,4 @@
-#104271577
 #Talha Abdulaziz
-#Assignment 5
 
 import math
 
